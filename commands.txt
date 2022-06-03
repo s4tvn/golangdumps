@@ -1,0 +1,7 @@
+compile => go build
+run => go run {file}.go
+
+compile similar => go install
+* adds bin folder
+
+ref: https://www.youtube.com/watch?v=C8LgvuEBraI
